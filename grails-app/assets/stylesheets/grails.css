@@ -41,7 +41,7 @@ pre {
 
 }
 .navbar-dark, .navbar-static-top {
-    background-color: #424649;
+    background-color: #754719;
     border: 0px;
 }
 a.navbar-brand {
@@ -56,7 +56,7 @@ a.navbar-brand {
     color: white !important;
 }
 .navbar-nav>li>a:hover {
-    background-color: #2559a7 !important;
+    background-color: #754719 !important;
     color: white !important;
 }
 .navbar-nav>li>a {
@@ -66,7 +66,7 @@ a.navbar-brand {
     background-color: white;
 }
 .navbar-dark .navbar-toggle:hover, .navbar-dark .navbar-toggle:focus {
-    background-color: #2559a7;
+    background-color: #754719;
 }
 
 .navbar-toggler {
@@ -128,7 +128,7 @@ a.navbar-brand {
 
 #band {
     /*grey =#808080*/
-    background: #2559a7  no-repeat 50% 30%;
+    background: #754719  no-repeat 50% 30%;
     height: 400px;
 }
 
@@ -396,12 +396,12 @@ body, html {
 }
 
 a {
-    color: #2559a7;
+    color: #754719;
     text-decoration: underline;
 }
 
 a:hover {
-    color: #2559a7;
+    color: #754719;
     text-decoration: none
 }
 
@@ -428,13 +428,13 @@ h4 {
 h5 {
     font-size: 1.125em;
     font-weight: bold;
-    color: #2559a7;
+    color: #754719;
 }
 
 h6 {
     font-size: 1.08em;
     font-weight: normal;
-    color: #2559a7;
+    color: #754719;
 }
 
 h7 {
@@ -892,7 +892,7 @@ html, body, .st-container, .st-pusher, .st-content {
     visibility: hidden;
     width: 300px;
     height: 100%;
-    background: #2559a7;
+    background: #754719;
     -webkit-transition: all .5s;
     transition: all .5s;
     right: -600px
